@@ -5,9 +5,7 @@
  * Once it has parsed two strings and five doubles, it will create a Country object and add it to an array of Country objects(cArray[])
  * Once the array of Country objects is created, it will repeatedly print a menu correlating to integers.
  * Options 1-6 are actions to be performed while 7 allows the user to quit and will terminate the program.
- * 
  * More details are given by the static methods documented later. It is important to note that menu option 1 calls method option1(), 
  * menu option 2 calls method option2(), etc. 
- * 
  * @author Brandon Rocha
  * @version September 15, 2022 
